@@ -1,11 +1,8 @@
 fastapi
 uvicorn
-jose
+python-jose
 python-multipart
 passlib
 bcrypt
-passlib
 pydantic
 google-generativeai
-typing
-python-jose
