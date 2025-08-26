@@ -5,7 +5,7 @@ python-multipart
 passlib
 bcrypt
 passlib
-jose
 pydantic
 google-generativeai
 typing
+python-jose
