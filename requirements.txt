@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+jose
+python-multipart
+passlib
+bcrypt
+passlib
+jose
+pydantic
+google-generativeai
+typing
